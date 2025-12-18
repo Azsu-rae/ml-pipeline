@@ -1,6 +1,6 @@
 # Diabetes ML Pipeline - Cloud Project
 
-# Video Presentation
+Video Presentation: https://youtu.be/QlPAh4LFbM8
 
 Complete ETL + ML pipeline using Docker, Airflow, MinIO, and PostgreSQL.
 
